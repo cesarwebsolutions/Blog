@@ -1,5 +1,5 @@
 <?php 
-    include_once("templates/header.php");
+    include("templates/header.php");
 ?>
     <main>
         <div id="title-container">
@@ -25,5 +25,5 @@
 
     </main>
 <?php 
-include_once("templates/footer.php")
+include("templates/footer.php")
 ?>
